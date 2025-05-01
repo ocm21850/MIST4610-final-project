@@ -36,7 +36,7 @@ Rows:
 
 A single EVregistration in the state of Washington
 
-Question 1
+# Question 1
 
 Question:
 
@@ -54,7 +54,7 @@ Our data model can help with this decision by showing which car brands offer the
 
 <img width="603" alt="Screenshot 2025-04-30 at 10 33 39 PM" src="https://github.com/user-attachments/assets/8e9b7c37-0c6b-4724-8456-5acbb879f937" />
 
-Question 2
+# Question 2
 
 Question:
 
@@ -71,6 +71,6 @@ Unlike question one, question two helps provide companies with insight into EV a
 <img width="564" alt="Screenshot 2025-04-30 at 10 34 03 PM" src="https://github.com/user-attachments/assets/b8cd0dc5-a1f3-4379-9f69-b1ee53202126" />
 
 
-Tableau Packaged Workbook
+# Tableau Packaged Workbook
 
 https://github.com/HaydenMulnix/MIST4610_GroupProjectTwo#tableau-packaged-workbook
