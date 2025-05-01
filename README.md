@@ -2,18 +2,19 @@
 
 Group name: 61608 Group 3
 
-Team Members
+# Team Members
 
 Cavanaugh, Rory
 Chadha, Jasmine
 McNally, Owen
 Mulnix, Hayden
 Nguyen, Timmy
-Our Dataset
+
+# Our Dataset
 
 We obtained out data from the State of Washington Open Data site.
 
-Columns:
+# Columns:
 
 VIN (PK)(INT)
 Country (VARCHAR)
